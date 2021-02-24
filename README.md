@@ -13,6 +13,7 @@ If you would like to add or update a position, please add an issue to the repo w
 
 Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Notes
 ---	|	---	|	---	|	---
+1inch	|	App	|	🟩 Support	|
 Aave	|	App	|	🟩 Support	|
 Airswap	|	App	|	🟩 Support	|
 Arbitrum	|	Layer 2	|	🟩 Support	|
