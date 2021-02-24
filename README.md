@@ -13,33 +13,34 @@ If you would like to add or update a position, please add an issue to the repo w
 
 Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Notes
 ---	|	---	|	---	|	---
-Aave	|	App	|	🟩 Support	|	
-Airswap	|	App	|	🟩 Support	|	
-Arbitrum	|	Layer 2	|	🟩 Support	|	
-BadgerDAO	|	App	|	🟩 Support	|	
-Balancer	|	App	|	🟩 Support	|	
-bZx	|	App	|	🟩 Support	|	
-Compound	|	App	|	🟦 Neutral	|	
-Curve	|	App	|	🟩 Support	|	
-Dark Forest	|	App	|	🟩 Support	|	
-Dharma	|	App	|	🟩 Support	|	
+Aave	|	App	|	🟩 Support	|
+Airswap	|	App	|	🟩 Support	|
+Arbitrum	|	Layer 2	|	🟩 Support	|
+BadgerDAO	|	App	|	🟩 Support	|
+Balancer	|	App	|	🟩 Support	|
+bZx	|	App	|	🟩 Support	|
+Compound	|	App	|	🟦 Neutral	|
+Curve	|	App	|	🟩 Support	|
+Dark Forest	|	App	|	🟩 Support	|	🟩 Support	|
+Dharma	|	App	|	🟩 Support	|
 Etherscan	|	Infrastructure	|	🟦 Neutral	|	“We are not heavily for or against the proposal but we will be ready to support EIP-1559 if that is what the community decides is in the network’s best interest.”
-Gitcoin	|	App	|	🟩 Support	|	
+Gitcoin	|	App	|	🟩 Support	|
+GridPlus | Hardware Wallet | 🟩 Support	|
 Infura	|	Infrastructure	|	🟨 TBD	|	"There are technical improvements in EIP-1559 that will benefit the network but we are not heavily for or against the proposal. We will be ready to support EIP-1559 if that is what the community decides is in the network’s best interest."
-Lighthouse	|	Eth2 Client Team	|	🟩 Support	|	
-Lodestar	|	Eth2 Client Team	|	🟩 Support	|	
-Loopring	|	Layer 2	|	🟩 Support	|	
+Lighthouse	|	Eth2 Client Team	|	🟩 Support	|
+Lodestar	|	Eth2 Client Team	|	🟩 Support	|
+Loopring	|	Layer 2	|	🟩 Support	|
 MakerDAO	|	App	|	🟩 Support	|	87% Yes, 11% Abstain, 2% No (53 voters). To be followed by a MKR vote soon, read the discussion here: [Forum Signal Request](https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646).
-mStable	|	App	|	🟩 Support	|	
-Optimism	|	Layer 2	|	🟩 Support	|	
-Opyn	|	App	|	🟩 Support	|	
-Prysmatic Labs	|	Eth2 Client Team	|	🟩 Support	|	
-Sushiswap	|	App	|	🟩 Support	|	
-Synthetix	|	App	|	🟩 Support	|	
+mStable	|	App	|	🟩 Support	|
+Optimism	|	Layer 2	|	🟩 Support	|
+Opyn	|	App	|	🟩 Support	|
+Prysmatic Labs	|	Eth2 Client Team	|	🟩 Support	|
+Sushiswap	|	App	|	🟩 Support	|
+Synthetix	|	App	|	🟩 Support	|
 Teku	|	Eth2 Client Team	|	🟨 TBD	|	Support contingent on Core Dev Approval
-Yam Finance	|	App	|	🟩 Support	|	
+Yam Finance	|	App	|	🟩 Support	|
 
 **Disclaimers**
 
-1. Excluding MakerDAO, these responses only represent the opinion of Core teams, not necessarily the collective perspective of each application's community. 
+1. Excluding MakerDAO, these responses only represent the opinion of Core teams, not necessarily the collective perspective of each application's community.
 2. Note that just because an org / project is not represented here, that doesn't mean they are against the proposal.
