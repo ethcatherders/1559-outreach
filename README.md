@@ -41,5 +41,5 @@ Yam Finance	|	App	|	🟩 Support	|
 
 **Disclaimers**
 
-1. Excluding MakerDAO, the responses only represent the opinion of Core teams, not the individual perspective of each application's community members. 
-2. Note that just because a team is not represented here, that doesn't mean they are against the proposal.
+1. Excluding MakerDAO, these responses only represent the opinion of Core teams, not necessarily the collective perspective of each application's community. 
+2. Note that just because an org / project is not represented here, that doesn't mean they are against the proposal.
