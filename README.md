@@ -21,7 +21,7 @@ Balancer	|	App	|	🟩 Support	|
 bZx	|	App	|	🟩 Support	|
 Compound	|	App	|	🟦 Neutral	|
 Curve	|	App	|	🟩 Support	|
-Dark Forest	|	App	|	🟩 Support	|	🟩 Support	|
+Dark Forest	|	App	|	🟩 Support	|
 Dharma	|	App	|	🟩 Support	|
 Etherscan	|	Infrastructure	|	🟦 Neutral	|	“We are not heavily for or against the proposal but we will be ready to support EIP-1559 if that is what the community decides is in the network’s best interest.”
 Gitcoin	|	App	|	🟩 Support	|
