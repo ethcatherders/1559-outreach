@@ -16,7 +16,7 @@ If you would like to add or update a position, please add an issue to the repo w
 1. In most cases, the responses only represent the opinion of Core teams, not that of each application's community. 
 2. Note that just because a team is not represented here, that doesn't mean they are against the proposal.
 
-Name	|	Category	|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Notes
+Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Notes
 ---	|	---	|	---	|	---
 Aave	|	App	|	🟩 Support	|	
 Airswap	|	App	|	🟩 Support	|	
@@ -33,7 +33,7 @@ Infura	|	Infrastructure	|	🟨 TBD	|	"There are technical improvements in EIP-15
 Lighthouse	|	Eth2 Client Team	|	🟩 Support	|	
 Lodestar	|	Eth2 Client Team	|	🟩 Support	|	
 Loopring	|	Layer 2	|	🟩 Support	|	
-MakerDAO Forum - Signal Request	|	App	|	🟩 Support	|	87% Yes, 11% Abstain, 2% No (53 voters). To be followed by a MKR vote soon.
+MakerDAO Forum Signal Request	|	App	|	🟩 Support	|	87% Yes, 11% Abstain, 2% No (53 voters). To be followed by a MKR vote soon.
 mStable	|	App	|	🟩 Support	|	
 Optimism	|	Layer 2	|	🟩 Support	|	
 Opyn	|	App	|	🟩 Support	|	
