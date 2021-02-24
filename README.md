@@ -9,7 +9,7 @@ Collectively, these applications represents over $21B in value locked. (as of Fe
 If you would like to add or update a position, please add an issue to the repo with:
 
 - org name
-- link to a public source
+- link to a public source explicitly claiming one of the following: Support, Neutral, Reject, TBD
 
 **Disclaimers**
 
