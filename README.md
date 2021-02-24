@@ -4,7 +4,7 @@ To continue the work started in October 2020 ([EIP-1559 Community Outreach Repor
 
 Outreach started on Jan 25 with the [DeFiPulse top 10 projects](https://defipulse.com/) ranked by Total Value Locked (TVL). Sentiment gathering and education is ongoing. We have also added projects that signaled via [SupportEIP1559.org](https://supporteip1559.org/) to this repo.
 
-Collectively, these applications represents over $21B in value locked. (as of Feb. 23, 2021)
+Collectively, these applications represents over **$21B in value locked**. (as of Feb. 23, 2021)
 
 If you would like to add or update a position, please add an issue to the repo with:
 
