@@ -1,25 +1,21 @@
-**Summary**
+# Summary
 
-To continue the work started in October 2020 ([EIP-1559 Community Outreach Report](https://medium.com/ethereum-cat-herders/eip-1559-community-outreach-report-aa18be0666b5)), we have gathered additional sentiment on EIP-1559 from leading Ethereum applications. Because the success of the Ethereum ecosystem is tightly linked to its builders, it's important to catalog their perspectives for Core Devs to consider as part of their process.
+To continue the work started in October 2020 ([EIP-1559 Community Outreach Report](https://medium.com/ethereum-cat-herders/eip-1559-community-outreach-report-aa18be0666b5)), we have gathered additional sentiment on EIP-1559 from leading Ethereum applications. Because the success of the Ethereum ecosystem is tightly linked to its builders, it's important to catalog their perspectives for the community to consider as part of their decision to support EIP-1559 or not.
 
-Outreach started on Jan 25 with the top 10 ranking of DeFiPulse Total Value Locked (TVL). Sentiment gathering and education is ongoing. We have also added projects that signaled via [SupportEIP1559.org](https://supporteip1559.org/) to this repo.
+Outreach started on Jan 25 with the [DeFiPulse top 10 projects](https://defipulse.com/) ranked by Total Value Locked (TVL). Sentiment gathering and education is ongoing. We have also added projects that signaled via [SupportEIP1559.org](https://supporteip1559.org/) to this repo.
 
 Collectively, these applications represents over $21B in value locked. (as of Feb. 23, 2021)
 
 If you would like to add or update a position, please add an issue to the repo with:
 
-- org name
+- org or project name
 - link to a public source explicitly claiming one of the following: Support, Neutral, Reject, TBD
 
-**Disclaimers**
-
-1. In most cases, the responses only represent the opinion of Core teams, not that of each application's community. 
-2. Note that just because a team is not represented here, that doesn't mean they are against the proposal.
-
-Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Notes
+Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Notes
 ---	|	---	|	---	|	---
 Aave	|	App	|	🟩 Support	|	
 Airswap	|	App	|	🟩 Support	|	
+Arbitrum	|	Layer 2	|	🟩 Support	|	
 BadgerDAO	|	App	|	🟩 Support	|	
 Balancer	|	App	|	🟩 Support	|	
 bZx	|	App	|	🟩 Support	|	
@@ -33,7 +29,7 @@ Infura	|	Infrastructure	|	🟨 TBD	|	"There are technical improvements in EIP-15
 Lighthouse	|	Eth2 Client Team	|	🟩 Support	|	
 Lodestar	|	Eth2 Client Team	|	🟩 Support	|	
 Loopring	|	Layer 2	|	🟩 Support	|	
-MakerDAO Forum Signal Request	|	App	|	🟩 Support	|	87% Yes, 11% Abstain, 2% No (53 voters). To be followed by a MKR vote soon.
+MakerDAO	|	App	|	🟩 Support	|	87% Yes, 11% Abstain, 2% No (53 voters). To be followed by a MKR vote soon, read the discussion here: [Forum Signal Request](https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646).
 mStable	|	App	|	🟩 Support	|	
 Optimism	|	Layer 2	|	🟩 Support	|	
 Opyn	|	App	|	🟩 Support	|	
@@ -42,3 +38,8 @@ Sushiswap	|	App	|	🟩 Support	|
 Synthetix	|	App	|	🟩 Support	|	
 Teku	|	Eth2 Client Team	|	🟨 TBD	|	Support contingent on Core Dev Approval
 Yam Finance	|	App	|	🟩 Support	|	
+
+**Disclaimers**
+
+1. Excluding MakerDAO, the responses only represent the opinion of Core teams, not the individual perspective of each application's community members. 
+2. Note that just because a team is not represented here, that doesn't mean they are against the proposal.
