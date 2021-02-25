@@ -14,7 +14,7 @@ If you would like to add or update a position, please add an issue to the repo w
 While there is no exact precedent for this type of direct survey, given the scope of the change, we thought it important that application communities become familiar with the mechanisms that make 1559 work. It is not expected that explicit polling for EIPs will become common in the future.
 
 
-Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Notes
+Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Comments
 ---	|	---	|	---	|	---
 1inch	|	App	|	🟩 Support	|
 Aave	|	App	|	🟩 Support	|
@@ -35,7 +35,7 @@ Lighthouse	|	Eth2 Client Team	|	🟩 Support	|
 Lodestar	|	Eth2 Client Team	|	🟩 Support	|
 Loopring	|	Layer 2	|	🟩 Support	|
 MakerDAO	|	App	|	🟩 Support	|	87% Yes, 11% Abstain, 2% No (53 voters). To be followed by a MKR vote soon, read the discussion here: [Forum Signal Request](https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646).
-MetaMask | Wallet |	🟦 Neutral | 
+MetaMask | Wallet |	🟦 Neutral | "Planning to support Ethereum whatever way it goes (we've got designs for 1559, and we're ready to implement them as needed)."
 mStable	|	App	|	🟩 Support	|
 Opium	|	App	|	🟩 Support	|
 Optimism	|	Layer 2	|	🟩 Support	|
@@ -46,7 +46,7 @@ Synthetix	|	App	|	🟩 Support	|
 Teku	|	Eth2 Client Team	|	🟨 TBD	|	Support contingent on Core Dev Approval
 Yam Finance	|	App	|	🟩 Support	|
 
-**Caveat**
+**Caveats**
 
 1. Excluding MakerDAO, these responses only represent the opinion of Core teams, not necessarily the collective perspective of each application's community.
 2. Note that just because an org / project is not represented here, that doesn't mean they are against the proposal.
