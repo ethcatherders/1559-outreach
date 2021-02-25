@@ -35,7 +35,7 @@ Lighthouse	|	Eth2 Client Team	|	🟩 Support	|
 Lodestar	|	Eth2 Client Team	|	🟩 Support	|
 Loopring	|	Layer 2	|	🟩 Support	|
 MakerDAO	|	App	|	🟩 Support	|	87% Yes, 11% Abstain, 2% No (53 voters). To be followed by a MKR vote soon, read the discussion here: [Forum Signal Request](https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646).
-MetaMask | Wallet |	🟦 Neutral |
+MetaMask | Wallet |	🟦 Neutral | 
 mStable	|	App	|	🟩 Support	|
 Opium	|	App	|	🟩 Support	|
 Optimism	|	Layer 2	|	🟩 Support	|
