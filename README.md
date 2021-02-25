@@ -45,6 +45,7 @@ Sushiswap	|	App	|	🟩 Support	|
 Synthetix	|	App	|	🟩 Support	|
 Teku	|	Eth2 Client Team	|	🟨 TBD	|	Support contingent on Core Dev Approval
 Yam Finance	|	App	|	🟩 Support	|
+Lido | App/Infrastructure | 🟨 TBD	|	Support contingent token holders signal vote
 
 **Caveats**
 
