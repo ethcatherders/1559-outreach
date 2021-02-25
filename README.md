@@ -11,6 +11,9 @@ If you would like to add or update a position, please add an issue to the repo w
 - org or project name
 - link to a public source explicitly claiming one of the following: Support, Neutral, Reject, TBD
 
+While there is no exact precedent for this type of direct survey, given the scope of the change, we thought it important that application communities become familiar with the mechanisms that make 1559 work. It is not expected that explicit polling for EIPs will become common in the future.
+
+
 Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Notes
 ---	|	---	|	---	|	---
 1inch	|	App	|	🟩 Support	|
@@ -41,7 +44,7 @@ Synthetix	|	App	|	🟩 Support	|
 Teku	|	Eth2 Client Team	|	🟨 TBD	|	Support contingent on Core Dev Approval
 Yam Finance	|	App	|	🟩 Support	|
 
-**Disclaimers**
+**Caveat**
 
 1. Excluding MakerDAO, these responses only represent the opinion of Core teams, not necessarily the collective perspective of each application's community.
 2. Note that just because an org / project is not represented here, that doesn't mean they are against the proposal.
