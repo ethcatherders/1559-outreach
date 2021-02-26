@@ -42,6 +42,7 @@ Opium	|	App	|	🟩 Support	|
 Optimism	|	Layer 2	|	🟩 Support	|
 Opyn	|	App	|	🟩 Support	|
 Prysmatic Labs	|	Eth2 Client Team	|	🟩 Support	|
+Reality.eth | App | 🟥 Oppose |
 Sushiswap	|	App	|	🟩 Support	|
 Synthetix	|	App	|	🟩 Support	|
 Teku	|	Eth2 Client Team	|	🟨 TBD	|	Support contingent on Core Dev Approval
