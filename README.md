@@ -49,6 +49,7 @@ Synthetix	|	App	|	🟩 Support	|
 Teku	|	Eth2 Client Team	|	🟨 TBD	|	Support contingent on Core Dev Approval
 Yam Finance	|	App	|	🟩 Support	|
 Week in Ethereum News | Infrastructure | 🟩 Support |
+Lido | App/Infrastructure | 🟩 Support|	
 
 **Caveats**
 
