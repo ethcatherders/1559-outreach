@@ -33,6 +33,7 @@ GridPlus | Hardware Wallet | 🟩 Support	|
 Holyheld | App | 🟩 Support	|
 Infura	|	Infrastructure	|	🟨 TBD	|	"There are technical improvements in EIP-1559 that will benefit the network but we are not heavily for or against the proposal. We will be ready to support EIP-1559 if that is what the community decides is in the network’s best interest."
 Kleros | App | 🟩 Support	|
+Lido | App/Infrastructure | 🟩 Support|	
 Lighthouse	|	Eth2 Client Team	|	🟩 Support	|
 Lodestar	|	Eth2 Client Team	|	🟩 Support	|
 Loopring	|	Layer 2	|	🟩 Support	|
@@ -49,7 +50,6 @@ Synthetix	|	App	|	🟩 Support	|
 Teku	|	Eth2 Client Team	|	🟨 TBD	|	Support contingent on Core Dev Approval
 Yam Finance	|	App	|	🟩 Support	|
 Week in Ethereum News | Infrastructure | 🟩 Support |
-Lido | App/Infrastructure | 🟩 Support|	
 
 **Caveats**
 
