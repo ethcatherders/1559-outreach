@@ -20,12 +20,15 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Category&
 Aave	|	App	|	🟩 Support	|
 Airswap	|	App	|	🟩 Support	|
 Arbitrum	|	Layer 2	|	🟩 Support	|
+B.Protocol	|	App	|	🟩 Support	|
 BadgerDAO	|	App	|	🟩 Support	|
 Balancer	|	App	|	🟩 Support	|
 bZx	|	App	|	🟩 Support	|
 Compound	|	App	|	🟦 Neutral	|
 Curve	|	App	|	🟩 Support	|
 Dark Forest	|	App	|	🟩 Support	|
+DeFiDollar	|	App	|	🟩 Support	|
+DeFi Saver	|	App	|	🟩 Support	|
 Dharma	|	App	|	🟩 Support	|
 Etherscan	|	Infrastructure	|	🟦 Neutral	|	“We are not heavily for or against the proposal but we will be ready to support EIP-1559 if that is what the community decides is in the network’s best interest.”
 Gitcoin	|	App	|	🟩 Support	|
@@ -43,6 +46,7 @@ mStable	|	App	|	🟩 Support	|
 Opium	|	App	|	🟩 Support	|
 Optimism	|	Layer 2	|	🟩 Support	|
 Opyn	|	App	|	🟩 Support	|
+Paraswap	|	App	|	🟩 Support	|
 Prysmatic Labs	|	Eth2 Client Team	|	🟩 Support	|
 Reality.eth | App | 🟥 Oppose |
 Sushiswap	|	App	|	🟩 Support	|
