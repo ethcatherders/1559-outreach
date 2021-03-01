@@ -57,5 +57,5 @@ Week in Ethereum News | Infrastructure | 🟩 Support |
 
 **Caveats**
 
-1. Excluding MakerDAO, these responses only represent the opinion of Core teams, not necessarily the collective perspective of each application's community.
+1. Excluding MakerDAO and Lido, these responses only represent the opinion of Core teams, not necessarily the collective perspective of each application's community.
 2. Note that just because an org / project is not represented here, that doesn't mean they are against the proposal.
