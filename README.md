@@ -53,7 +53,7 @@ Reality.eth | App | 🟥 Oppose |
 Sushiswap	|	App	|	🟩 Support	|
 Synthetix	|	App	|	🟩 Support	|
 Teku	|	Eth2 Client Team	|	🟨 TBD	|	Support contingent on Core Dev Approval
-Uniswap | App | Neutral | Support 42% (5), Abstain 58% (7)
+Uniswap | App | 🟦 Neutral | Support 42% (5), Abstain 58% (7)
 Week in Ethereum News | Infrastructure | 🟩 Support |
 Yam Finance	|	App	|	🟩 Support	|
 
