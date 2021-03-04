@@ -42,7 +42,7 @@ Lido | App/Infrastructure | 🟩 Support|
 Lighthouse	|	Eth2 Client Team	|	🟩 Support	|
 Lodestar	|	Eth2 Client Team	|	🟩 Support	|
 Loopring	|	Layer 2	|	🟩 Support	|
-MakerDAO	|	App	|	🟩 Support	|	87% Yes, 11% Abstain, 2% No (53 voters). To be followed by a MKR vote soon, read the discussion here: [Forum Signal Request](https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646).
+MakerDAO	|	App	|	🟩 Support	|	[MKR vote](https://vote.makerdao.com/polling/QmTKVMWq?network=mainnet#vote-breakdown): 34,208.82 MKR (99.80%), Abstain 69.34 MKR (0.20%), No 0.00 MKR (0.00%) - Preceded by a [Forum Signal Request](https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646) 87% Yes, 11% Abstain, 2% No (53 voters).
 MetaMask | Wallet |	🟦 Neutral | "Planning to support Ethereum whatever way it goes (we've got designs for 1559, and we're ready to implement them as needed)."
 mStable	|	App	|	🟩 Support	|
 Opium	|	App	|	🟩 Support	|
