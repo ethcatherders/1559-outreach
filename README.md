@@ -37,11 +37,12 @@ Handle.fi | App | 🟩 Support	|
 Holyheld | App | 🟩 Support	|
 Infura	|	Infrastructure	|	🟨 TBD	|	"There are technical improvements in EIP-1559 that will benefit the network but we are not heavily for or against the proposal. We will be ready to support EIP-1559 if that is what the community decides is in the network’s best interest."
 Kleros | App | 🟩 Support	|
+Kyber | App | 🟩 Support	|
 Lido | App/Infrastructure | 🟩 Support|	
 Lighthouse	|	Eth2 Client Team	|	🟩 Support	|
 Lodestar	|	Eth2 Client Team	|	🟩 Support	|
 Loopring	|	Layer 2	|	🟩 Support	|
-MakerDAO	|	App	|	🟩 Support	|	87% Yes, 11% Abstain, 2% No (53 voters). To be followed by a MKR vote soon, read the discussion here: [Forum Signal Request](https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646).
+MakerDAO	|	App	|	🟩 Support	|	[MKR vote](https://vote.makerdao.com/polling/QmTKVMWq?network=mainnet#vote-breakdown): Yes 34,208.82 MKR (99.80%), Abstain 69.34 MKR (0.20%), No 0.00 MKR (0.00%) - Preceded by a [Forum Signal Request](https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646) 87% Yes, 11% Abstain, 2% No (53 voters).
 MetaMask | Wallet |	🟦 Neutral | "Planning to support Ethereum whatever way it goes (we've got designs for 1559, and we're ready to implement them as needed)."
 mStable	|	App	|	🟩 Support	|
 Opium	|	App	|	🟩 Support	|
@@ -52,9 +53,10 @@ Prysmatic Labs	|	Eth2 Client Team	|	🟩 Support	|
 Reality.eth | App | 🟥 Oppose |
 Sushiswap	|	App	|	🟩 Support	|
 Synthetix	|	App	|	🟩 Support	|
-Teku	|	Eth2 Client Team	|	🟨 TBD	|	Support contingent on Core Dev Approval
-Yam Finance	|	App	|	🟩 Support	|
+Teku	|	Eth2 Client Team	|	🟩 Support |
+Uniswap | App | 🟦 Neutral | Support 42% (5), Abstain 58% (7)
 Week in Ethereum News | Infrastructure | 🟩 Support |
+Yam Finance	|	App	|	🟩 Support	|
 dex.guru | App | 🟩 Support |
 Defiprime | Infrastructure | 🟩 Support |
 
