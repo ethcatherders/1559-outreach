@@ -57,6 +57,8 @@ Teku	|	Eth2 Client Team	|	🟩 Support |
 Uniswap | App | 🟦 Neutral | Support 42% (5), Abstain 58% (7)
 Week in Ethereum News | Infrastructure | 🟩 Support |
 Yam Finance	|	App	|	🟩 Support	|
+dex.guru | App | 🟩 Support |
+Defiprime | Infrastructure | 🟩 Support |
 
 **Caveats**
 
