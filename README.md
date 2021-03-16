@@ -33,6 +33,7 @@ Dharma	|	App	|	🟩 Support	|
 Etherscan	|	Infrastructure	|	🟦 Neutral	|	“We are not heavily for or against the proposal but we will be ready to support EIP-1559 if that is what the community decides is in the network’s best interest.”
 Gitcoin	|	App	|	🟩 Support	|
 GridPlus | Hardware Wallet | 🟩 Support	|
+Hakka Finance | App | 🟩 Support	| [HAKKA vote](https://gov.hakka.finance/#/hip/65)
 Handle.fi | App | 🟩 Support	|
 Hermez | Layer 2 | 🟩 Support	|
 Holyheld | App | 🟩 Support	|
